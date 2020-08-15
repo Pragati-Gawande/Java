@@ -1,1 +1,1 @@
-# 100-days-of-code
+# Java programming and mini projects
