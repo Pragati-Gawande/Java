@@ -1,12 +1,12 @@
+// Package 
 package bot;
-
 import java.util.Scanner;
-
+// class 
 public class SimpleBot {
     final static Scanner scanner = new Scanner(System.in); // Do not change this line
 
     public static void main(String[] args) {
-        greet("Sstar", "2020"); // change it as you need
+        greet("Sstar", "2020"); // change it as you need name for your chatbot
         remindName();
         guessAge();
         count();
